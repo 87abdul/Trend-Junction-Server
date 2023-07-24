@@ -1,1 +1,1 @@
-# Trend-Junction-Server
+# Trend-Junction
